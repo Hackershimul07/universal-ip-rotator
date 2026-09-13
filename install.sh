@@ -66,7 +66,7 @@ echo -e "${GREEN}✓ Server Physical IP:${NC} ${VPS_IP}\n"
 # ==============================================================================
 #                  🔐 CLOUDFLARE LICENSE & ACCESS VERIFICATION
 # ==============================================================================
-LICENSE_SERVER="https://foridul-license-manager.sg-foridul.workers.dev"
+LICENSE_SERVER="https://damp-moon-18b4.jony62832.workers.dev"
 
 echo -e "${YELLOW}${BOLD}━━━━━━━━━━━━ 🔐 LICENSE AUTHENTICATION ━━━━━━━━━━━━${NC}"
 echo -e "${CYAN}Protected by Foridul Cloudflare Edge Security System${NC}\n"
