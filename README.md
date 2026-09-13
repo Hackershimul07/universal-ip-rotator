@@ -32,7 +32,7 @@ An all-in-one automated Telegram Bot and Gateway Controller for Linux VPS. Contr
 Run this single command on your Ubuntu / Debian server (as root):
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/hackershimul07/universal-ip-rotator/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/Hackershimul07/universal-ip-rotator-main/main/install.sh)
 ```
 
 The installer will prompt for:
