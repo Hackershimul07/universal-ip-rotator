@@ -49,7 +49,7 @@ It then verifies license with your Cloudflare Worker server, installs all depend
 ```bash
 # 1. Clone this repository
 git clone https://github.com/hackershimul07/universal-ip-rotator-main.git
-cd universal-ip-rotator
+cd universal-ip-rotator-main
 
 # 2. Make installer executable & run
 chmod +x install.sh
